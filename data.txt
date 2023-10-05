@@ -5,4 +5,4 @@ user: glowinZero
 course: webDev
 version: FT
 city: Lisbon
-New: test
+country: Portugal
